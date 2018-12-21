@@ -14,9 +14,14 @@
   "dependencies": {
     "gatsby": "^2.0.33",
     "gatsby-plugin-netlify-cms": "^3.0.9",
+    "gatsby-source-filesystem": "^2.0.12",
+    "gatsby-transformer-remark": "^2.1.17",
+    "immutable": "^3.8.2",
     "netlify-cms": "^2.3.1",
     "react": "^16.5.1",
-    "react-dom": "^16.5.1"
+    "react-dom": "^16.5.1",
+    "redux": "^3.0.0",
+    "slate": "^0.33.3"
   },
   "repository": {
     "type": "git",
